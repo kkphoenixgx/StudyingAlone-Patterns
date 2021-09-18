@@ -1,0 +1,16 @@
+- Studding alone - 15/09/21
+--software architecture--
+
+- software architecture
+
+software architecture :  is how components of a system 
+interact with each other.
+
+software design : is the how implement the components of a
+software.
+
+Paterns that you must know:
+
+Paterns:
+[Clean, pipe and filter, client server, event driver]
+[MVC, observers, factory, microservices]

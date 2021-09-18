@@ -1,0 +1,15 @@
+Studying Alone - 18/09/21 
+--Dependency Injection--
+
+Dependency Injection is a way of looking for a code,
+is a Refined way of look for a code, a code have yours
+dependencies, that is all the stuff that a code needs
+for run, when a dependency is a class and you have export
+that to use like a import, that is a "PT-BR = módulo" 
+"En - module".
+
+The Dependency Injection is basically the concept that
+things have to be separated for easily implemented, so
+classes and others can't be dependents of another class
+You have to do a way that the class can run alone, for 
+easily debug and implementations.

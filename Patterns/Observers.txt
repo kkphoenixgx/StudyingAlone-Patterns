@@ -1,0 +1,30 @@
+- Studying Alone - 18/09/21
+--Observers Pattern--
+
+- Studding the observer pattern:
+
+What is a dependency?
+A dependency is all of things that a object needs to
+start.
+
+For what is the observer pattern?
+The observer pattern is a way of notify all of the 
+dependency's of a class maintaining a good abstraction
+and a easy way of update a system.
+
+A observer:
+What is a observer?  A observer is a object that wait 
+for a subject to start working, but the observer don't
+recognize the subject, he is just waiting.
+
+There is three stages of linkage:
+
+stage 1-  from portuguese "Ameba" 
+that is the moment of our problem that you don't know
+what belongs to what, all the components are together
+stage 2- "divided but neighbors"
+All the script is divided, but the functions know each 
+other and on a explicit form, call each other
+stage 3 - "god like or black market"
+All of the components don't know each other and all of 
+them just don't call each other.

@@ -1,0 +1,34 @@
+- Studying Alone - 15/09/21
+--MVC--
+
+- MVC - Model view controller - 
+You already know it but the mvc is pretty bad for big Interpreses 
+because that is pretty bad for updates.
+
+- Design Layer Architecture (arquitetura em camadas)- 
+
+  On this pattern there is no limit of layers that you 
+  can put it but put too many layers can plastering our
+  code the function of the layer have to be clear and
+  pretty good commentated:
+
+  * layers:
+
+  Controller=
+  [responsável por gerenciar as requisições e as respostas]
+  Have the responsibility of manage requisitions and answers
+  of the script's flow.
+  Servisses = 
+  Have the responsibility of manage the business rule.
+  Repository = 
+  Have the responsibility of manage the db.
+  Entity=
+  the db's table on the application
+
+    Web -> controller -> services -> 
+    entities[crate a new object] -> repository ->
+    Repository -> service -> controller -> 
+    to who asked the requisition
+
+    *but this paterns have a down point too, creating a lot of
+    layers can down the performance of the site*
