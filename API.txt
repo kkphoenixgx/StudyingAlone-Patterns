@@ -1,0 +1,9 @@
+- Studying Alone - 19/09/21
+--API--
+
+O que é uma API? 
+Interface de programação de aplicações.
+
+"As APIs costumam ser vistas como contratos, com 
+documentações que representam um acordo entre as partes
+interessadas."
