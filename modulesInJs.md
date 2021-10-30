@@ -6,7 +6,7 @@ To start using the modules, you have to use type = "module" in the main js index
 and using the type = "module" you can use atributes like:
 defer and async.
 
-### Exporting:
+### Exporting
 
 And in the script we have to use export to indicate that this function, variable, atribute, method or a hole class is exportable and if It is going to be exported, but on class generally you is doing a class file so to a class you generally are going to use "default" to indicate that is the default exportation. Exemple:
 
@@ -77,7 +77,7 @@ export default Interface
 export{importFromDB}
 ~~~
 
-I prefer the syntax with it but that don't means nothing, you can use that in many ways. 
+I prefer the syntax with it but that don't means nothing, you can use that in many ways.
 
 ### Importing
 
